@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "facialbiibi", "facialbiibi\facialbiibi.csproj", "{DAD0537D-6B2C-48AE-866A-4B09A4B63A15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAD0537D-6B2C-48AE-866A-4B09A4B63A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD0537D-6B2C-48AE-866A-4B09A4B63A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD0537D-6B2C-48AE-866A-4B09A4B63A15}.Debug|x64.ActiveCfg = Debug|x64
+		{DAD0537D-6B2C-48AE-866A-4B09A4B63A15}.Debug|x64.Build.0 = Debug|x64
+		{DAD0537D-6B2C-48AE-866A-4B09A4B63A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD0537D-6B2C-48AE-866A-4B09A4B63A15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD0537D-6B2C-48AE-866A-4B09A4B63A15}.Release|x64.ActiveCfg = Release|x64
+		{DAD0537D-6B2C-48AE-866A-4B09A4B63A15}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F35D4E6A-B899-4908-93DD-C89929FE5EB2}
+	EndGlobalSection
+EndGlobal
